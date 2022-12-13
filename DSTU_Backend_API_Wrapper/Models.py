@@ -15,7 +15,7 @@ class DishInfo:
     id: int
     canteen_id: int
     name: str
-    category: list[str]
+    category: str
     price: float
 
 
